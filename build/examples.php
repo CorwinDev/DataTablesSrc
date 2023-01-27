@@ -310,6 +310,7 @@ DT_Example::$lookup_libraries['js' ]['bootstrap4']   = 'https://cdnjs.cloudflare
 DT_Example::$lookup_libraries['css']['bootstrap4']   = 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.css';
 DT_Example::$lookup_libraries['js' ]['bootstrap5']   = 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.0/js/bootstrap.bundle.min.js';
 DT_Example::$lookup_libraries['css']['bootstrap5']   = 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.0/css/bootstrap.min.css';
+DT_Example::$lookup_libraries['css']['tailwind']     = 'https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css';
 DT_Example::$lookup_libraries['css']['bulma']        = 'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css';
 DT_Example::$lookup_libraries['js' ]['foundation']   = 'https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js';
 DT_Example::$lookup_libraries['css']['foundation']   = 'https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css';

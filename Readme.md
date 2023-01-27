@@ -55,3 +55,10 @@ Support for DataTables is available through the [DataTables forums](//datatables
 ## License
 
 DataTables is release under the [MIT license](//datatables.net/license). You are free to use, modify and distribute this software, but all copyright information must remain.
+
+## How to build tailwindcss 
+```
+npx tailwindcss build -i css/tailwind.css -o css/buildTailwind.css
+```
+
+Then just run npm run build
